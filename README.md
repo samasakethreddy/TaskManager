@@ -15,7 +15,6 @@ A task management application built with **Golang** (Gin Framework) for the back
 - **Authentication**: JWT (JSON Web Token)
 - **Password Hashing**: bcrypt
 - **Middleware**: CORS and Authentication
-- **Containerization**: Docker (for easy deployment)
 
 ### **Frontend**:
 
