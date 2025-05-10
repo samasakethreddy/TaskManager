@@ -23,7 +23,7 @@ A task management application built with **Golang** (Gin Framework) for the back
 - **UI Framework**: Bootstrap 5
 - **HTTP Client**: Axios
 - **Routing**: React Router DOM
-- **State Management**: React Hooks (`useState`, `useEffect`)
+- **State Management**: React Hooks (`useState`, `useEffect`, ...)
 - **Authentication**: JWT stored in `localStorage`
 
 ---
